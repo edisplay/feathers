@@ -36,12 +36,12 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"debug": "^4.1.1"
+		"debug": "^4.4.0"
 	},
 	"devDependencies": {
-		"@feathersjs/feathers": "^4.5.3",
-		"express": "^4.17.1",
-		"mocha": "^8.0.1"
+		"@feathersjs/feathers": "^5.0.31",
+		"express": "^4.21.2",
+		"mocha": "^11.0.1"
 	},
 	"gitHead": "9b9f0f13387341bdd320f1e66feda828fca2c9f2"
 }

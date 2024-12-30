@@ -43,27 +43,27 @@
     "access": "public"
   },
   "dependencies": {
-    "@feathersjs/errors": "^4.5.3",
-    "@feathersjs/feathers": "^4.5.3",
-    "@feathersjs/transport-commons": "^4.5.3",
-    "@types/jsonwebtoken": "^8.5.0",
-    "debug": "^4.1.1",
-    "jsonwebtoken": "^8.5.1",
-    "lodash": "^4.17.19",
+    "@feathersjs/errors": "^5.0.31",
+    "@feathersjs/feathers": "^5.0.31",
+    "@feathersjs/transport-commons": "^5.0.31",
+    "@types/jsonwebtoken": "^9.0.7",
+    "debug": "^4.4.0",
+    "jsonwebtoken": "^9.0.2",
+    "lodash": "^4.17.21",
     "long-timeout": "^0.1.1",
-    "uuid": "^8.2.0"
+    "uuid": "^11.0.3"
   },
   "devDependencies": {
-    "@types/debug": "^4.1.5",
-    "@types/lodash": "^4.14.157",
-    "@types/mocha": "^7.0.2",
-    "@types/node": "^14.0.22",
-    "@types/uuid": "^8.0.0",
+    "@types/debug": "^4.1.12",
+    "@types/lodash": "^4.17.13",
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^22.10.2",
+    "@types/uuid": "^10.0.0",
     "feathers-memory": "^4.1.0",
-    "mocha": "^8.0.1",
-    "shx": "^0.3.2",
-    "ts-node": "^8.10.2",
-    "typescript": "^3.9.6"
+    "mocha": "^11.0.1",
+    "shx": "^0.3.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
   },
   "gitHead": "9b9f0f13387341bdd320f1e66feda828fca2c9f2"
 }

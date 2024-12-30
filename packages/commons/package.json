@@ -41,12 +41,12 @@
     "access": "public"
   },
   "devDependencies": {
-    "@types/mocha": "^7.0.2",
-    "@types/node": "^14.0.22",
-    "mocha": "^8.0.1",
-    "shx": "^0.3.2",
-    "ts-node": "^8.10.2",
-    "typescript": "^3.9.6"
+    "@types/mocha": "^10.0.10",
+    "@types/node": "^22.10.2",
+    "mocha": "^11.0.1",
+    "shx": "^0.3.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
   },
   "gitHead": "9b9f0f13387341bdd320f1e66feda828fca2c9f2"
 }
